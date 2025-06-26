@@ -1,6 +1,6 @@
 ## Olá, eu sou o Fábio Araújo! 👋
 
-Tenho 23 anos e estou no primeiro semestre de Sistemas de Informação na FIAP. Estudei por dois anos Engenharia Computacional na UFJF, onde desenvolvi uma base sólida em lógica e programação. Atualmente, estou focado em me tornar um desenvolvedor Fullstack, com ênfase em backend. Tenho estudado HTML, CSS, JavaScript e frameworks como Nuxt.js, Vue, React e Next. Busco evoluir com projetos práticos e oportunidades reais no mundo da programação.
+Tenho 23 anos e estou no primeiro semestre de Sistemas de Informação na FIAP. Estudei por dois anos Engenharia Computacional na UFJF, onde desenvolvi uma base sólida em lógica e programação. Atualmente, estou focado em me tornar um desenvolvedor Fullstack, com ênfase em frontend. Tenho estudado HTML, CSS, JavaScript e frameworks como Nuxt.js, Vue, React e Next. Busco evoluir com projetos práticos e oportunidades reais no mundo da programação.
 
 ---
 
