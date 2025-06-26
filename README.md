@@ -34,10 +34,9 @@ Sou Fábio Araújo, tenho 23 anos e estou no primeiro semestre de Sistemas de In
 
 ### 📫 Contatos
 
-- Email: seuemail@gmail.com
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seulinkedin)
-- Instagram: [@seuinstagram](https://instagram.com/seuinstagram)
-
+- Email: devfabioaraujo@gmail.com
+- LinkedIn: www.linkedin.com/in/dev-fabio-araujo
+- Portfolio: https://portfolio-fabio-araujo.vercel.app
 ---
 
 _Sempre aberto a novas conexões e oportunidades!_
