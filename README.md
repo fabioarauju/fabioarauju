@@ -7,7 +7,7 @@
 <a href="https://portfolio-fabio-araujo.vercel.app/"><img src="https://img.shields.io/badge/-Portfólio-000?style=flat-square&logo=vercel&logoColor=white"/></a>
 </p>
 
-Sou apaixonado por tecnologia e desenvolvimento de software, com experiência prática em aplicações web utilizando Vue.js, Nuxt.js, Node.js, Next.js, React, Bootstrap e Tailwind CSS. Tenho domínio de ferramentas como GitHub e VS Code, o que me permite atuar de forma eficiente em projetos colaborativos e ambientes de desenvolvimento modernos.
+Sou apaixonado por tecnologia e desenvolvimento de software, com experiência prática em aplicações web utilizando Node.js, Next.js, React, Bootstrap e Tailwind CSS. Tenho domínio de ferramentas como GitHub e VS Code, o que me permite atuar de forma eficiente em projetos colaborativos e ambientes de desenvolvimento modernos.
 
 Atualmente, trabalho no Bar da Clarice, onde desenvolvi um sistema em VBA que otimizou a gestão de pedidos, estoque e relatórios, reduzindo o tempo de atendimento em cerca de 70%. Além do desenvolvimento, também atuo no atendimento ao público e na gestão de pedidos. Em dezembro de 2021, desenvolvi um sistema em VBA para o controle de caixa do Escritório BJPAF, tornando os processos internos mais organizados e eficientes.
 
