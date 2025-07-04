@@ -1,5 +1,11 @@
 ## Olá, eu sou o Fábio Araújo! 👋
 
+<p align="center">
+<a href="https://www.linkedin.com/in/felipe-rocha-034871172"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:devfabioaraujo@gmail.com"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
+</p>
+
 Tenho 23 anos e estou no primeiro semestre de Sistemas de Informação na FIAP. Estudei por dois anos Engenharia Computacional na UFJF, onde desenvolvi uma base sólida em lógica e programação. Atualmente, estou focado em me tornar um desenvolvedor Fullstack. Tenho estudado HTML, CSS, JavaScript e frameworks como Nuxt.js, Vue, React e Next. Busco evoluir com projetos práticos e oportunidades reais no mundo da programação.
 
 ---
@@ -29,14 +35,5 @@ Tenho 23 anos e estou no primeiro semestre de Sistemas de Informação na FIAP. 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📫 Contatos
-
-- Email: devfabioaraujo@gmail.com
-- LinkedIn: www.linkedin.com/in/dev-fabio-araujo
-- Portfolio: https://portfolio-fabio-araujo.vercel.app
----
 
 _Sempre aberto a novas conexões e oportunidades!_
