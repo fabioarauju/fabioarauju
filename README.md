@@ -40,12 +40,12 @@ Tenho 23 anos e estou no primeiro semestre de Sistemas de Informação na FIAP. 
 ### 📊 GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-fabio-araujo&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fabioarauju&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ### 📊 Linguagens Mais Usadas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-fabio-araujo&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioarauju&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 _Sempre aberto a novas conexões e oportunidades!_
