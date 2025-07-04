@@ -13,7 +13,7 @@ Atualmente, trabalho no Bar da Clarice, onde desenvolvi um sistema em VBA que ot
 
 Tenho inglês em nível intermediário, com foco em leitura e escrita técnica, o que me permite acompanhar documentações e conteúdos internacionais, embora reconheça que ainda tenho muito a aprender e busque constantemente evoluir nesse idioma.
 
-Atualmente, curso Sistemas de Informação na FIAP (2025/1 a 2028/2), onde estou desenvolvendo um site de notícias como projeto acadêmico, utilizando HTML, CSS, JavaScript e Bootstrap para criar uma plataforma responsiva e funcional, com foco em experiência do usuário e organização eficiente das informações. Também cursei Engenharia Computacional na UFJF (2020/1 a 2024/2), onde aprofundei meus conhecimentos em algoritmos e estruturas de dados. Durante a pandemia, optei por migrar para uma formação mais prática e alinhada ao mercado de trabalho.
+Atualmente, curso Sistemas de Informação na FIAP (2025/1 a 2028/2), onde estou desenvolvendo um site de notícias como projeto acadêmico, utilizando Next.js, React e JavaScript para criar uma plataforma responsiva e funcional, com foco em experiência do usuário e organização eficiente das informações. Também cursei Engenharia Computacional na UFJF (2020/1 a 2024/2), onde aprofundei meus conhecimentos em algoritmos e estruturas de dados. Durante a pandemia, optei por migrar para uma formação mais prática e alinhada ao mercado de trabalho.
 
 Possuo certificações em Hardware e Informática (Microcamp, 2016) e em Assistente Administrativo e Financeiro (Cebrac, 2017), que complementam minha formação técnica e administrativa.
 
