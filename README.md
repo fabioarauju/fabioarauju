@@ -37,4 +37,15 @@ Tenho 23 anos e estou no primeiro semestre de Sistemas de Informação na FIAP. 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
+### 📊 GitHub Status
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-fabio-araujo&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+### 📊 Linguagens Mais Usadas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-fabio-araujo&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
 _Sempre aberto a novas conexões e oportunidades!_
