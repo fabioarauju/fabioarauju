@@ -1,9 +1,10 @@
 ## Olá, eu sou o Fábio Araújo! 👋
 
 <p align="center">
-<a href="https://www.linkedin.com/in/felipe-rocha-034871172"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:devfabioaraujo@gmail.com"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-
+<a href="https://www.linkedin.com/in/dev-fabio-araujo"><img src="https://img.shields.io/badge/-Meu%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:devfabioaraujo@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://wa.me/5532991646197"><img src="https://img.shields.io/badge/-Whatsapp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
+<a href="https://portfolio-fabio-araujo.vercel.app/"><img src="https://img.shields.io/badge/-Portfólio-000?style=flat-square&logo=vercel&logoColor=white"/></a>
 </p>
 
 Tenho 23 anos e estou no primeiro semestre de Sistemas de Informação na FIAP. Estudei por dois anos Engenharia Computacional na UFJF, onde desenvolvi uma base sólida em lógica e programação. Atualmente, estou focado em me tornar um desenvolvedor Fullstack. Tenho estudado HTML, CSS, JavaScript e frameworks como Nuxt.js, Vue, React e Next. Busco evoluir com projetos práticos e oportunidades reais no mundo da programação.
