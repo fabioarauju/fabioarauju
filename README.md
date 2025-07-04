@@ -7,8 +7,17 @@
 <a href="https://portfolio-fabio-araujo.vercel.app/"><img src="https://img.shields.io/badge/-Portfólio-000?style=flat-square&logo=vercel&logoColor=white"/></a>
 </p>
 
-Tenho 23 anos e estou no primeiro semestre de Sistemas de Informação na FIAP. Estudei por dois anos Engenharia Computacional na UFJF, onde desenvolvi uma base sólida em lógica e programação. Atualmente, estou focado em me tornar um desenvolvedor Fullstack. Tenho estudado HTML, CSS, JavaScript e frameworks como Nuxt.js, Vue, React e Next. Busco evoluir com projetos práticos e oportunidades reais no mundo da programação.
+Sou apaixonado por tecnologia e desenvolvimento de software, com experiência prática em aplicações web utilizando Vue.js, Nuxt.js, Node.js, Next.js, React, Bootstrap e Tailwind CSS. Tenho domínio de ferramentas como GitHub e VS Code, o que me permite atuar de forma eficiente em projetos colaborativos e ambientes de desenvolvimento modernos.
 
+Atualmente, trabalho no Bar da Clarice, onde desenvolvi um sistema em VBA que otimizou a gestão de pedidos, estoque e relatórios, reduzindo o tempo de atendimento em cerca de 70%. Além do desenvolvimento, também atuo no atendimento ao público e na gestão de pedidos. Em dezembro de 2021, desenvolvi um sistema em VBA para o controle de caixa do Escritório BJPAF, tornando os processos internos mais organizados e eficientes.
+
+Tenho inglês em nível intermediário, com foco em leitura e escrita técnica, o que me permite acompanhar documentações e conteúdos internacionais, embora reconheça que ainda tenho muito a aprender e busque constantemente evoluir nesse idioma.
+
+Atualmente, curso Sistemas de Informação na FIAP (2025/1 a 2028/2), onde estou desenvolvendo um site de notícias como projeto acadêmico, utilizando HTML, CSS, JavaScript e Bootstrap para criar uma plataforma responsiva e funcional, com foco em experiência do usuário e organização eficiente das informações. Também cursei Engenharia Computacional na UFJF (2020/1 a 2024/2), onde aprofundei meus conhecimentos em algoritmos e estruturas de dados. Durante a pandemia, optei por migrar para uma formação mais prática e alinhada ao mercado de trabalho.
+
+Possuo certificações em Hardware e Informática (Microcamp, 2016) e em Assistente Administrativo e Financeiro (Cebrac, 2017), que complementam minha formação técnica e administrativa.
+
+Estou sempre em busca de novos desafios, oportunidades de aprendizado e projetos práticos que me permitam evoluir como desenvolvedor e contribuir para soluções inovadoras.
 ---
 
 ### 🛠 Habilidades Técnicas
